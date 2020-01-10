@@ -1,0 +1,48 @@
+// FILE: C:/Users/kh/Desktop/AZIZI/TP5/GenerationDuCode.CS//Livres.cs
+
+// In this section you can add your own using directives
+    // section -64--88-56-1-313d700b:16f04d7fd4a:-8000:00000000000009AC begin
+    // section -64--88-56-1-313d700b:16f04d7fd4a:-8000:00000000000009AC end
+
+/// <summary>
+    ///  A class that represents ...
+    /// 
+    ///  @see OtherClasses
+    ///  @author your_name_here
+     /// </summary>
+public class Livres : Volumes
+{
+    // Attributes
+
+    private Boolean Livres_emprunte;
+
+    public Integer newAttr;
+
+    public Integer newAttr;
+
+    // Associations
+
+    /// <summary> 
+    ///  A class that represents ...
+    /// 
+    ///  @see OtherClasses
+    ///  @author your_name_here
+    /// </summary>
+    public ArrayList  Emprunter;
+
+    // Operations
+
+    /// <summary>
+    ///  An operation that does...
+    /// 
+    ///  @param firstParam a description of this parameter
+    /// </summary>
+    /// <returns>
+    /// </returns>
+    public  void Empruntable()
+    {
+    // section -64--88-56-1-313d700b:16f04d7fd4a:-8000:00000000000009C8 begin
+    // section -64--88-56-1-313d700b:16f04d7fd4a:-8000:00000000000009C8 end
+
+    }
+} /* end class Livres */
